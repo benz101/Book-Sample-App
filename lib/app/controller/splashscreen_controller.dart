@@ -1,4 +1,4 @@
-import 'package:book_sample_app/app/ui/home_page.dart';
+import 'package:book_sample_app/app/ui/home/home_page.dart';
 import 'package:get/get.dart';
 
 class SplashScreenController extends GetxController {

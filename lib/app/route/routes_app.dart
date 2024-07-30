@@ -2,8 +2,8 @@ import 'package:book_sample_app/app/binding/detail_of_book_binding.dart';
 import 'package:book_sample_app/app/binding/home_binding.dart';
 import 'package:book_sample_app/app/binding/splashscreen_binding.dart';
 import 'package:book_sample_app/app/ui/detail_of_book/detail_of_book_page.dart';
-import 'package:book_sample_app/app/ui/home_page.dart';
-import 'package:book_sample_app/app/ui/splashscreen_page.dart';
+import 'package:book_sample_app/app/ui/home/home_page.dart';
+import 'package:book_sample_app/app/ui/splashscreen/splashscreen_page.dart';
 import 'package:get/get.dart';
 
 class RoutesApp {

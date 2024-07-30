@@ -1,6 +1,6 @@
 import 'package:book_sample_app/app/model/local/item_of_book_model.dart';
 import 'package:book_sample_app/app/route/routes_app.dart';
-import 'package:book_sample_app/app/ui/splashscreen_page.dart';
+import 'package:book_sample_app/app/ui/splashscreen/splashscreen_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
