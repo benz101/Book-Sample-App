@@ -1,0 +1,6 @@
+enum StateOfObjMore {
+  IS_IDLE_MORE,
+  IS_LOADING_MORE,
+  IS_SUCCESS_MORE,
+  IS_ERROR_MORE,
+}
